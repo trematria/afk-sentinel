@@ -1,5 +1,9 @@
 # AFK Sentinel
 
+<p align="center">
+  <img src="assets/afk-sentinel-emblem.svg" alt="AFK Sentinel — white hawk emblem on black" width="192">
+</p>
+
 **A local-first, lock-aware webcam security project by TRELAB.**
 
 **Public developer-alpha launch candidate: 23 November 2026.** This is source code for developers and testers; it is not a production-ready security appliance or a one-click end-user installer.
