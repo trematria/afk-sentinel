@@ -1,0 +1,18 @@
+{
+  "product": "TRELAB AFK Sentinel",
+  "version": "0.1.0-alpha",
+  "release_date": "2026-11-23",
+  "status": "developer alpha launch candidate; local source validated, public repository not yet confirmed",
+  "scope": "GNOME lock-aware local Motion controller and read-only retention preview",
+  "test_count": 15,
+  "license": "MIT (TRELAB sources only)",
+  "remote_push": "planned, not implemented",
+  "mobile_live_view": "planned, not implemented",
+  "email_alerts": "optional planned, not implemented",
+  "automatic_deletion": false,
+  "production_installation_modified": false,
+  "public_repository_published": false,
+  "reboot_recovery": "not independently verified",
+  "release_channel": "source-only public developer alpha",
+  "tested_host_source_only": true
+}

@@ -1,0 +1,13 @@
+{
+  "camera_device": "/dev/video0",
+  "recordings_dir": "~/Videos/AFK-Sentinel",
+  "state_dir": "~/.local/state/afk-sentinel-dev",
+  "motion_binary": "/usr/bin/motion",
+  "gdbus_binary": "/usr/bin/gdbus",
+  "width": 640,
+  "height": 480,
+  "fps": 10,
+  "motion_threshold": 1500,
+  "poll_seconds": 1,
+  "shutdown_seconds": 15
+}
